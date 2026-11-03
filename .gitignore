@@ -1,0 +1,10 @@
+# 密钥与密码（绝对不能提交）
+secret.key
+password.sha256
+credentials.json
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc

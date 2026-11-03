@@ -1,0 +1,56 @@
+[
+  {
+    "name": "DSH 智能体",
+    "desc": "AI 工作台 · 工作区直连 6TB 存储",
+    "url": "https://82.157.154.188:8444/",
+    "icon": "🧠"
+  },
+  {
+    "name": "VS Code",
+    "desc": "浏览器版 VS Code · 直接编辑服务器文件",
+    "url": "https://82.157.154.188:8446/",
+    "icon": "💻"
+  },
+  {
+    "name": "工作室存储 6TB",
+    "desc": "浏览与下载 · 断点续传",
+    "url": "/files/?t=rd2026",
+    "icon": "🗄️"
+  },
+  {
+    "name": "云盘 51G",
+    "desc": "云服务器本机磁盘 · 可 WebDAV 挂载",
+    "url": "/cloud/",
+    "icon": "☁️"
+  },
+  {
+    "name": "Open WebUI",
+    "desc": "本地大模型对话界面",
+    "url": "/webui/",
+    "icon": "🤖"
+  },
+  {
+    "name": "小助 · 控制台",
+    "desc": "QQ 机器人管理面板",
+    "url": "/xiaozhu/",
+    "icon": "💬"
+  },
+  {
+    "name": "Sunshine",
+    "desc": "远程桌面串流配置",
+    "url": "/sunshine/",
+    "icon": "🖥️"
+  },
+  {
+    "name": "A* 可视化",
+    "desc": "人工智能导论 · 网格寻路演示",
+    "url": "/astar/",
+    "icon": "🧭"
+  },
+  {
+    "name": "APK 分享",
+    "desc": "安卓安装包下载目录",
+    "url": "/apk/",
+    "icon": "📦"
+  }
+]
